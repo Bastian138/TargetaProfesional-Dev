@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 123,
+    "left": 0,
+    "width": 600,
+    "height": 800,
+    "isRotated": false,
+    "originalWidth": 600,
+    "originalHeight": 1050
+  },
+  "imagePath": "image-targets/Celeste & Black Modern Interior Designer Business Card Print Template_luminance.png",
+  "metadata": null,
+  "name": "Celeste & Black Modern Interior Designer Business Card Print Template",
+  "resources": {
+    "originalImage": "Celeste & Black Modern Interior Designer Business Card Print Template_original.png",
+    "croppedImage": "Celeste & Black Modern Interior Designer Business Card Print Template_cropped.png",
+    "thumbnailImage": "Celeste & Black Modern Interior Designer Business Card Print Template_thumbnail.png",
+    "luminanceImage": "Celeste & Black Modern Interior Designer Business Card Print Template_luminance.png"
+  },
+  "created": 1787105445970,
+  "updated": 1787105710738
+}
